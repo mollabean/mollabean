@@ -21,4 +21,4 @@ Tools
 
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=Pupple)
-<img src="https://img.shields.io/badge/flutter-#02569B.svg?&style=for-the-badge&logo=flutter&logoColor=Blue">
+![flutter](https://img.shields.io/badge/flutter-#02569B.svg?&style=for-the-badge&logo=flutter&logoColor=Blue)
