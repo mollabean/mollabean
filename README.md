@@ -22,5 +22,6 @@ Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=Pupple)
 <img src="https://img.shields.io/badge/flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=Blue"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=Blue"/></a>
 <img src="https://img.shields.io/badge/jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=Orange"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=Blue"/></a>
+
